@@ -1,6 +1,6 @@
 ﻿---
 home: true
-heroImage: /hero.png
+heroImage: /rocher.jpg
 actionText: 快速进步 →
 actionLink: /SA/
 features:
